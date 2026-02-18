@@ -67,19 +67,16 @@ breast-tumor-classifier/
 │ ├─ metrics.txt
 
 
----
-
 ## How to run locally
 
 1. Clone the repository:
-    ```bash
 git clone https://github.com/vaishuchr/tumor-assessment-prototype.git
 cd tumor-assessment-prototype
 
-2. Install dependencies:
+3. Install dependencies:
     pip install -r requirements.txt
 
-3. Run the Streamlit app:
+4. Run the Streamlit app:
     streamlit run app.py
 
 
