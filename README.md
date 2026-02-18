@@ -56,15 +56,18 @@ The interface is designed to reflect principles from health informatics and huma
 
 
 ## Project structure
+```
 breast-tumor-classifier/
-├─ app.py
-├─ train_model.py
-├─ requirements.txt
-├─ README.md
-├─ model/
-│ ├─ classifier.pkl
-│ ├─ conf_matrix.pkl
-│ ├─ metrics.txt
+├── app.py
+├── train_model.py
+├── requirements.txt
+├── README.md
+├── model/
+│   ├── classifier.pkl
+│   ├── conf_matrix.pkl
+│   ├── metrics.txt
+
+```
 
 
 ## How to run locally
