@@ -1,0 +1,4 @@
+Accuracy: 0.96
+Confusion Matrix:
+[[70  1]
+ [ 3 40]]
